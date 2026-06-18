@@ -4,5 +4,5 @@
 * salt
 * LIME
 ## instructions
-chopp avacado
-
+chop avacado
+juice the lime
