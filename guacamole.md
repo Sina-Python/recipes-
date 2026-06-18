@@ -2,7 +2,7 @@
 ## Ingrediennts
 * avacado
 * salt
-* tommato
+* LIME
 ## instructions
 
 
